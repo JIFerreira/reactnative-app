@@ -1,0 +1,4 @@
+#Sat Oct 27 13:11:51 BRT 2018
+base.0=/home/jeferson/Documents/projects/studys_udemy/albums/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

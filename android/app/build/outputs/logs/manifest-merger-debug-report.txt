@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a68f1c89cb51344241030d6aaa02ca5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e5e72058db583f1d87060766806f0b50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8d8d9e55d9b88eaef2b478d3f315ae7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/48976f86263b07223d8d2f6793b79696/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9f5f0938b0ca4edb30a464e5692977e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3967802414f86c082d5627bbf16545b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e17e0baa17fbbb301c4fc1b4eea3aa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4423e424f1d6162e3c66d8081912be4c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9b6e29943fe8a21d16e06574bd5082d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/782e26b341bcf52c83572f25074c05be/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/94f6bac6022fdeba20768f95bda9d25b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4e61b4b1eb83c96a6995c0bf8e06965c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad74d4a37699c243e26d96b3cef1e1e3/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/jeferson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a52888f4548abfc6cf085d34bf5b38f3/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3adb278ddac3402b8cdcebf82dd877a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53eb9b6a9fc0356e48c2c1bb9c5ff6da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/c6cf6d6eed6ef705e51dd39f211ebf7e/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c9960a2089b2ee68ae624d93020f576/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36eae45f7a5965153906324e6a39b4eb/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad74d4a37699c243e26d96b3cef1e1e3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad74d4a37699c243e26d96b3cef1e1e3/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/jeferson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a52888f4548abfc6cf085d34bf5b38f3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/jeferson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a52888f4548abfc6cf085d34bf5b38f3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.albums.MainActivity
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/932c7fa9cbdd8f651a403954428bf95b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a68f1c89cb51344241030d6aaa02ca5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a68f1c89cb51344241030d6aaa02ca5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e5e72058db583f1d87060766806f0b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e5e72058db583f1d87060766806f0b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8d8d9e55d9b88eaef2b478d3f315ae7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8d8d9e55d9b88eaef2b478d3f315ae7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/48976f86263b07223d8d2f6793b79696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/48976f86263b07223d8d2f6793b79696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9f5f0938b0ca4edb30a464e5692977e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9f5f0938b0ca4edb30a464e5692977e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3967802414f86c082d5627bbf16545b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3967802414f86c082d5627bbf16545b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e17e0baa17fbbb301c4fc1b4eea3aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e17e0baa17fbbb301c4fc1b4eea3aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4423e424f1d6162e3c66d8081912be4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/4423e424f1d6162e3c66d8081912be4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9b6e29943fe8a21d16e06574bd5082d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9b6e29943fe8a21d16e06574bd5082d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/782e26b341bcf52c83572f25074c05be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/782e26b341bcf52c83572f25074c05be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/94f6bac6022fdeba20768f95bda9d25b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/94f6bac6022fdeba20768f95bda9d25b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4e61b4b1eb83c96a6995c0bf8e06965c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4e61b4b1eb83c96a6995c0bf8e06965c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad74d4a37699c243e26d96b3cef1e1e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jeferson/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/ad74d4a37699c243e26d96b3cef1e1e3/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3adb278ddac3402b8cdcebf82dd877a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3adb278ddac3402b8cdcebf82dd877a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53eb9b6a9fc0356e48c2c1bb9c5ff6da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53eb9b6a9fc0356e48c2c1bb9c5ff6da/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/c6cf6d6eed6ef705e51dd39f211ebf7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/c6cf6d6eed6ef705e51dd39f211ebf7e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c9960a2089b2ee68ae624d93020f576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c9960a2089b2ee68ae624d93020f576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36eae45f7a5965153906324e6a39b4eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36eae45f7a5965153906324e6a39b4eb/AndroidManifest.xml:20:5-44
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/jeferson/Documents/projects/studys_udemy/albums/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
